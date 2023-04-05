@@ -1,1 +1,1 @@
-# Responsive-Web-Design-Certification-Course-Project-1-Cat-Photo-App
+freeCodeCamp's Responsive Web Design Certification Course Project 6: CSS Box Model- Build a Rothko Painting
